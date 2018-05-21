@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1511016737 source:c:\users\oliverpc\desktop\projeto_fila_v3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1510960094 c:\users\oliverpc\desktop\projeto_fila_v3\fila.h
+
+1511023049 source:c:\users\oliverpc\desktop\projeto_fila_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511067355 source:c:\users\christopher\desktop\projeto_fila_v3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511061865 c:\users\christopher\desktop\projeto_fila_v3\fila.h
+
+1511064660 source:c:\users\christopher\desktop\projeto_fila_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511111255 source:c:\users\tales\desktop\fazer\projeto_fila_v4\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511111255 c:\users\tales\desktop\fazer\projeto_fila_v4\fila.h
+
+1511111255 source:c:\users\tales\desktop\fazer\projeto_fila_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511111255 source:c:\users\tales\desktop\fazer\projeto_fila_v5\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511111255 c:\users\tales\desktop\fazer\projeto_fila_v5\fila.h
+
+1511111556 source:c:\users\tales\desktop\fazer\projeto_fila_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511377881 source:d:\tales p2\projeto_fila_v5\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511377664 d:\tales p2\projeto_fila_v5\fila.h
+
+1511378079 source:d:\tales p2\projeto_fila_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511403804 source:c:\users\tales\desktop\fazer\projeto_fila_v6\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511403508 c:\users\tales\desktop\fazer\projeto_fila_v6\fila.h
+
+1511826463 source:c:\users\tales\desktop\fazer\projeto_fila_v6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1511403804 source:c:\users\tales\documents\arquivos_tsi\p2\estrutura de dados\projeto_1_ed\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fila.h"
+
+1511403508 c:\users\tales\documents\arquivos_tsi\p2\estrutura de dados\projeto_1_ed\fila.h
+
