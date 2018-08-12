@@ -2,6 +2,7 @@
 Primeiro projeto da disciplina de Estrutura de Dados (Sistemas para Internet, IFPB) feito em 2017.2.
 
 ## Descrição
+Todo o texto a seguir foi escrito pelos professores da disciplina, Cândido do Egypto e Alex Cunha.
 Os clientes devem ser programados em uma fila e chegam em intervalos de 1 a 5 minutos. Além disso, cada cliente é atendido em intervalos aleatórios de 1 a 5 minutos. Obviamente, as taxas de chegada e de atendimento precisam ser equilibradas. Se a taxa média de chegada for maior que a taxa média de atendimento, a fila crescerá indefinidamente. Mesmo com taxas equilibradas, o caráter aleatório da chegada e
 do atendimento ainda pode causar filas imensas. 
 
